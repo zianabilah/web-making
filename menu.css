@@ -1,0 +1,158 @@
+body {
+    width: 100%;
+    margin: auto;
+    padding: 0%;
+    background: khaki
+}
+
+.container{
+    width: 100%;
+    margin: auto;
+}
+
+#tentang{
+    text-align: center;
+}
+.perkenalan{
+    width: 100%;
+    height: 500px;
+    background: url('img/2.jpg' ) no-repeat  0 -10px;
+    background-size: 100%;
+    padding:0 ;
+    padding-top: 20px;
+    color: rgba(231, 21, 14, 0.801);
+    line-height: 50px;
+    font-size: 18px;
+
+}
+}
+.perkenalan h2{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+.isian h2{
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    padding-top: 30px;
+}
+
+.isian{
+    width: 50%;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    background:khaki;
+    border: 8px white solid ;
+    padding-left: 20px;
+    /* padding-left: 40%; */
+
+}
+.form {
+    text-align: center;
+}
+.isian input{
+    height: 50px;
+    width: 500px;
+    
+}
+
+#kritik{
+    height:100px;
+    width: 300px;
+}
+.button1{
+    padding: 7.5px;
+    height: 37px;
+    width: 250px;
+    border: 0;
+    background: white;
+}
+
+.isian form{
+    margin-left: 60px;
+    margin-top: -30px;
+}
+
+.isian input{
+    width: 200px;
+    height: 25px;
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    background: white;
+    overflow: hidden;
+    position: fixed;
+}
+
+#logo img{
+    float: left;
+    padding: 0;
+    padding-left: 50px;
+}
+
+header ul{
+    float: right;
+    padding-top: 30px;
+}
+
+header li{
+    text-decoration: none;
+    display: inline;
+    color: red;
+}
+
+header a{
+    text-decoration: none;
+    color: chocolate;
+    padding-left: 10px;
+    padding-right: 50px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.perkenalan{
+    padding-top: 70px;
+}
+
+h1{
+    background-color: whitesmoke;
+}
+
+
+}
+
+#sosmed{
+    width: 100%;
+    height: 80px;
+    background: rgb(27, 27, 27);
+}
+
+#sosmed .box{
+    float: right;
+    color: rgb(109, 109, 109);
+    margin-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#sosmed .Alamat{
+    float: left;
+    color:rgb(109, 109, 109);
+    padding-left: 100px;
+    line-height: 2px;
+}
+
+footer{
+    width: 100%;
+    padding: 1px;
+    background: rgb(27, 27, 27);
+    color: rgb(109, 109, 109);
+    text-align: center;
+}

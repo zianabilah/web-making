@@ -1,0 +1,84 @@
+ body{ 
+    width: 100%;
+    margin: auto;
+    padding: 0%;
+    background:papayawhip;
+   
+}
+
+.judul{
+    padding-top: 100px;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    background: url('image/background1.jpg')-200px -200px ;
+    color: white;
+    opacity: 0.8;
+  
+}
+.perkenalan{
+    text-align: center;
+    font-family: 'Merienda', cursive;
+}
+.perkenalan h2{
+    background-color: goldenrod;
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+    
+}
+.perkenalan p{
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 300px;
+    font-size: 20px;
+    line-height: 60px;
+    padding-top: 100px;
+    padding-bottom: 70px;
+
+}
+
+
+
+.isian {
+    text-align: left;
+    background: goldenrod;
+    width: 400px;
+    height: 400px;
+    color: rgb(13, 2, 24);
+    line-height: 40px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin: auto;
+
+}
+.isian input{
+    height: 25px;
+    width: 250px;
+
+}
+.isian h2{
+    color:black;
+
+}
+
+
+#kritik{
+    height: 100px;
+    width: 250px;
+}
+.submit{
+    width: 150px;
+    height: 30px;
+    background: black;
+    color:white;  
+}
+footer{
+    width: 100%;
+    height: auto;
+    text-align: right;
+    background: black;
+
+}

@@ -1,0 +1,221 @@
+body{
+    width: 100%;
+    margin: auto;
+    padding: 0%;
+    /* background: coral */
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    background: white;
+    overflow: hidden;
+    position: fixed;
+}
+
+#logo img{
+    float: left;
+    padding: 0;
+    padding-left: 50px;
+}
+
+header ul{
+    float: right;
+    padding-top: 30px;
+}
+
+header li{
+    text-decoration: none;
+    display: inline;
+    color: red;
+}
+
+header a{
+    text-decoration: none;
+    color: chocolate;
+    padding-left: 10px;
+    padding-right: 50px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+.slideshow{
+    width: 100%;
+    height: 670px;
+    background: url('img/2.jpg');
+}
+.slideshow img{
+    margin: auto;
+    padding: 150px;
+}
+
+#newsletter{
+    width: 100%;
+    height: 80px;
+    background: coral;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#newsletter h1{
+    float: left;
+    padding-left: 100px;
+    padding-top: 25px;
+    margin: auto;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    letter-spacing: 2px;
+}
+
+#newsletter form{
+    float: right;
+    padding-right: 100px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+#newsletter input[type="email"]{
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.button1{
+    padding: 7.5px;
+    height: 37px;
+    width: 100px;
+    border-radius: 5px;
+    border: 0;
+    background: white;
+}
+
+.openword{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.openword p1{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
+}
+
+.openword p2{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 30px;
+}
+
+.openword p3{
+    font-family: 'Abel', sans-serif;
+}
+
+.reservasi{
+
+}
+
+#harga{
+    width: 80%;
+    margin: auto;
+
+}
+
+.dftarharga{
+
+}
+
+#harga table{
+    width: 300px;
+    height: 500px;
+    background: rgb(235, 235, 235);
+    margin-bottom: 50px;
+
+}
+
+#judulharga{
+    background: rgb(37, 37, 37);
+    color: white;
+    height: 70px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+.harga button{
+    background:rgb(37, 37, 37);
+    color: white;
+    width: 200px;
+    height: 50px;
+    border: 0;
+    font-weight: 900;
+}
+
+.reservasi{
+    width: 100%;
+    height: 150px;
+    background: coral;
+    color: white;
+}
+
+#reservasi1{
+    float: left;
+    padding-top: 55px;
+    padding-left: 100px;
+    font-family: 'Rubik', sans-serif;
+    line-height: 20px;
+}
+
+.reservasi p4{
+    font-size: 20px;
+}
+
+.reservasi p5{
+    font-size: 15px;
+    letter-spacing: 0.2px;
+}
+
+.reservasi button{
+    float: right;
+    width: 180px;
+    height: 80px;
+    background: coral;
+    border: 2 rgb(255, 255, 255);
+    border-style: solid;
+    color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#button2{
+    padding-top: 35px;
+    padding-right: 100px;
+}
+
+#sosmed{
+    width: 100%;
+    height: 80px;
+    background: rgb(27, 27, 27);
+}
+
+#sosmed .box{
+    float: right;
+    color: rgb(109, 109, 109);
+    margin-right: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#sosmed .Alamat{
+    float: left;
+    color:rgb(109, 109, 109);
+    padding-left: 100px;
+    line-height: 2px;
+}
+
+footer{
+    width: 100%;
+    padding: 1px;
+    background: rgb(27, 27, 27);
+    color: rgb(109, 109, 109);
+    text-align: center;
+}
